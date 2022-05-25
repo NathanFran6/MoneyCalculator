@@ -3,7 +3,6 @@ import tkinter as tk
 win = tk.Tk()
 win.title('Money Use Calculator')
 
-
 win.geometry('750x350')
 
 title = tk.Label(win, text ='Money Use Calculator', font=('Arial', 25))
